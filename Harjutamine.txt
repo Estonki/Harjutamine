@@ -1,1 +1,2 @@
 Github on koht kust saab varastada inimeste tehtud koode, et neid ise kasutada. Seda kasutavad kõik programeeriad. Githubi saan kasutada edaspidi koodi varastamiseks.Saan ka teha interneti asju.
+GitHub.com platvormi kasutuselevõtt algas 19. oktoobril 2007. Saidi käivitasid 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon pärast seda, kui see oli paar kuud varem beetaversioonina kättesaadavaks tehtud. GitHubil on iga-aastane peaesineja nimega GitHub Universe.
